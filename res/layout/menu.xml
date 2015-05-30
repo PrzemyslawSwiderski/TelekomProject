@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/opcja"
+        android:textSize="28px" />
+
+    <Button
+        android:id="@+id/wikipediaPrzycisk"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kursy_walut" />
+
+<Button
+    android:id="@+id/onetPrzycisk"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/onet_wiadomosci" />
+
+<Button
+    android:id="@+id/temp_warszawaPrzycisk"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/warszawa_temp" />
+
+<Button
+    android:id="@+id/czasTokioPrzycisk"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/czas_tokio" />
+
+<Button
+    android:id="@+id/autorzyPrzycisk"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/o_programie" />
+
+</LinearLayout>

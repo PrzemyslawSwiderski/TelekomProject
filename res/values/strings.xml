@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, menu!</string>
+    <string name="app_name">tele5</string>
+    <string name="opcja">Wybierz opcję:</string>
+    <string name="kursy_walut">Wikipedia nagłówki</string>
+    <string name="info">Telekomunikacja - program 5.\n\n\nPrzemysław Świderski\nAdam Gorazda.</string>
+    <string name="autorzy">Autorzy</string>
+    <string name="o_programie">O programie</string>
+    <string name="title_activity_onet">Onet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="onet_wiadomosci">Onet Wiadomości</string>
+    <string name="warszawa_temp">Temperatura Warszawa</string>
+    <string name="title_activity_temperatura">Temperatura</string>
+    <string name="temp_w">Temperatura w Warszawie:</string>
+    <string name="temperatura_w_warszawie"></string>
+    <string name="czas_tokio">Czas w Tokio</string>
+    <string name="title_activity_czas_tokio">CzasTokio</string>
+    <string name="aktualny_czas_tokio">Aktualny czas w Tokio</string>
+    <string name="pusty"></string>
+    <string name="odswiez">Odśwież</string>
+
+</resources>
